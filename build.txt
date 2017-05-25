@@ -1,0 +1,2 @@
+javac WaitLoop.java
+jar cvfm WaitLoop.jar Manifest.txt WaitLoop.class
